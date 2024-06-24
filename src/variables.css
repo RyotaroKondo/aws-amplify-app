@@ -1,4 +1,24 @@
-:root {
+/* :root {
+  --color-base-gray-light: #cccccc;
+  --color-base-gray-medium: #999999;
+  --color-base-gray-dark: #111111;
+  --color-base-red: #ff0000;
+  --color-base-green: #00ff00;
+  --color-font-base: #ff0000;
+  --color-font-secondary: #00ff00;
+  --color-font-tertiary: #cccccc;
+  --color-text-link: #111111;
+  --size-font-small: 0.75rem;
+  --size-font-medium: 1rem;
+  --size-font-large: 2rem;
+  --size-font-base: 1rem;
+} */
+/**
+ * Do not edit directly
+ * Generated on Mon, 24 Jun 2024 10:04:21 GMT
+ */
+
+ :root {
   --color-base-gray-light: #cccccc;
   --color-base-gray-medium: #999999;
   --color-base-gray-dark: #111111;
@@ -12,4 +32,31 @@
   --size-font-medium: 1rem; /* the medium size of the font */
   --size-font-large: 2rem; /* the large size of the font */
   --size-font-base: 1rem; /* the base size of the font */
+  --primitive-color-gray-5: #1f1f1fff;
+  --primitive-color-gray-10: #333333ff;
+  --primitive-color-gray-20: #474747ff;
+  --primitive-color-gray-30: #5c5c5cff;
+  --primitive-color-gray-40: #757575ff;
+  --primitive-color-gray-50: #9e9e9eff;
+  --primitive-color-red-5: #5e0000ff;
+  --primitive-color-red-10: #630303ff;
+  --primitive-color-red-20: #850101ff;
+  --primitive-color-red-30: #ac0202ff;
+  --primitive-color-red-40: #d80303ff;
+  --primitive-color-red-50: #ff0000ff;
+  --primitive-color-blue-5: #172452ff;
+  --primitive-color-blue-20: #2e47a3ff;
+  --primitive-color-blue-40: #617ad6ff;
+  --primitive-color-blue-70: #c4cdf0ff;
+  --usage-color-text-color: #1f1f1fff;
+  --usage-color-text-color-2: #ffffffff;
+  --usage-color-text-color-3: #ffffffff;
+  --semantic-color-primary-pp: #0066ffff;
+  --semantic-color-primary-p: #617ad6ff;
+  --semantic-color-primary-mp: #c4cdf0ff;
+  --semantic-color-danger-pp: #ff0000ff;
+  --semantic-color-danger-p: #d80303ff;
+  --semantic-color-danger-mp: #ac0202ff;
+  --semantic-color-danger-default: #d80303ff;
+  --semantic-color-danger-f: #5e0000ff;
 }

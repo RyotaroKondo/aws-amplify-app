@@ -49,3 +49,10 @@
 .color-text-link {
   color: var(--color-text-link);
 }
+
+.button-danger {
+  background-color: var(--semantic-color-danger-default);
+  color: var(--usage-color-text-color-2);
+  padding: 10px 20px;
+  border-radius: 100px;
+}
