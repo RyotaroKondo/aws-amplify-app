@@ -11,6 +11,8 @@ function App() {
         <div className="color-base-red">Test Style-Dictionary</div>
         <div className="color-text-link">HogehogeFugafuga</div>
         <button className='button-danger'>削除</button>
+        
+        <button className='button-primary'>削除</button>
       </header>
     </div>
   );

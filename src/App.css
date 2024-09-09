@@ -56,3 +56,15 @@
   padding: 10px 20px;
   border-radius: 100px;
 }
+.button-primary {
+  background-color: var(--semantic-color-primary-pp);
+  color: var(--usage-color-text-color-2);
+  padding: 10px 20px;
+  border-radius: 100px;
+}
+.button-primary:hover {
+  background-color: var(--semantic-color-primary-p);
+  color: var(--usage-color-text-color-2);
+  padding: 10px 20px;
+  border-radius: 100px;
+}
